@@ -1,5 +1,5 @@
 <div align="center"><h1>drum</h1>
-
+This project demonstrates basic HTML structure, CSS styling, and JavaScript functionality to create an engaging and interactive web page for a drum kit application. It's a fun and creative example of using web technologies to simulate a musical instrument experience on the web.The purpose of this project is to create an interactive web page where users can play different drum sounds by pressing keys on their keyboard or clicking buttons on the screen.The drum sounds are mapped to specific keys/buttons, providing a virtual drum kit experience.
 
 
 # Home Page
